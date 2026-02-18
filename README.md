@@ -5,6 +5,31 @@ A modern **Employee Management System** built using **React.js** that allows adm
 This project demonstrates **real-world dashboard functionality**, including task lifecycle management (New → Active → Completed → Failed) with responsive UI.
 
 ---
+## 🔐 Demo Login Credentials
+
+To explore the system, use the following credentials:
+
+### 👨‍💼 Admin Login
+
+```
+Email: admin@me.com
+Password: 123
+```
+
+### 👩‍💻 Employee Logins
+
+```
+Email: em@ex.com
+Email: employee2@example.com
+Email: employee3@example.com
+Email: employee4@example.com
+Email: employee5@example.com
+
+Password (for all employees): 123
+```
+
+> 💡 All accounts use the same password for demo purposes.
+
 
 ## 📌 Features
 
